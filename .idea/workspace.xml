@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13d22d0-ac16-4d8e-949c-d8e81e5c8c9f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr1/Example9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,20 +40,7 @@
     &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Пользователь/IdeaProjects/java_course2023/src/Main.java&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Example15">
-    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
-      <module name="java_course2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Example9">
     <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
       <module name="java_course2023" />
@@ -115,13 +93,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Example9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example9" />
+      <module name="java_course2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example9" />
         <item itemvalue="Application.Example15" />
         <item itemvalue="Application.Example14" />
         <item itemvalue="Application.Example13" />
         <item itemvalue="Application.Example6" />
-        <item itemvalue="Application.Example12" />
       </list>
     </recent_temporary>
   </component>
@@ -142,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1700757688546</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1700978291903</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700978291903</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
