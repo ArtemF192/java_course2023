@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a13d22d0-ac16-4d8e-949c-d8e81e5c8c9f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/java_course2023.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr1/Example5.java" afterDir="false" />
+    <list default="true" id="a13d22d0-ac16-4d8e-949c-d8e81e5c8c9f" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr1/Example9.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +32,26 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2YaBNI33hmhYxlUttnK5cy1c1jP" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "onboarding.tips.debug.path": "C:/Users/Пользователь/IdeaProjects/java_course2023/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Пользователь/IdeaProjects/java_course2023/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Example5">
-    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example1" />
+}</component>
+  <component name="RunManager" selected="Application.Example15">
+    <configuration name="Example12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example12" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
@@ -63,8 +63,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example2" />
+    <configuration name="Example13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example13" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
@@ -76,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example3" />
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example14" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
@@ -89,8 +89,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example4" />
+    <configuration name="Example15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example15" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
@@ -102,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr1.Example5" />
+    <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr1.Example6" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Example5" />
-        <item itemvalue="Application.Example4" />
-        <item itemvalue="Application.Example3" />
-        <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example15" />
+        <item itemvalue="Application.Example14" />
+        <item itemvalue="Application.Example13" />
+        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example12" />
       </list>
     </recent_temporary>
   </component>
@@ -134,6 +134,15 @@
       <option name="presentableId" value="Default" />
       <updated>1700753768917</updated>
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1700757688546</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700757688546</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,5 +155,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
