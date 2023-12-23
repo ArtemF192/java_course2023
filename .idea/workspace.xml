@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13d22d0-ac16-4d8e-949c-d8e81e5c8c9f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/timus/task_2012/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1209/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1313/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1313/input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1639/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1787/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_1820/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/timus/task_2066/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +42,18 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.timus.task_1209.Main.executor": "Run",
+    "Application.timus.task_1313.Main.executor": "Run",
+    "Application.timus.task_1639.Main.executor": "Run",
+    "Application.timus.task_1787.Main.executor": "Run",
     "Application.timus.task_2012.Main.executor": "Run",
+    "Application.timus.task_2066.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
     "onboarding.tips.debug.path": "C:/Users/Пользователь/IdeaProjects/java_course2023/src/Main.java",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -53,13 +66,13 @@
       <recent name="timus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.timus.task_2012.Main">
+  <component name="RunManager" selected="Application.timus.task_1313.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example10.Main" />
+      <option name="MAIN_CLASS_NAME" value="timus.task_1820.Main" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.Example10.*" />
+          <option name="PATTERN" value="timus.task_1820.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="lr6.Example9.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr6.Example9.Main" />
+    <configuration name="timus.task_1209.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1209.Main" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr6.Example9.*" />
+          <option name="PATTERN" value="timus.task_1209.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus.task_1877.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task_1877.Main" />
+    <configuration name="timus.task_1313.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1313.Main" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task_1877.*" />
+          <option name="PATTERN" value="timus.task_1313.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +106,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus.task_2001.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task_2001.Main" />
+    <configuration name="timus.task_1787.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_1787.Main" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task_2001.*" />
+          <option name="PATTERN" value="timus.task_1787.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="timus.task_2012.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="timus.task_2012.Main" />
+    <configuration name="timus.task_2066.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="timus.task_2066.Main" />
       <module name="java_course2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="timus.task_2012.*" />
+          <option name="PATTERN" value="timus.task_2066.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +134,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.timus.task_2012.Main" />
-        <item itemvalue="Application.timus.task_2001.Main" />
-        <item itemvalue="Application.timus.task_1877.Main" />
+        <item itemvalue="Application.timus.task_1313.Main" />
+        <item itemvalue="Application.timus.task_1209.Main" />
+        <item itemvalue="Application.timus.task_2066.Main" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="Application.lr6.Example9.Main" />
+        <item itemvalue="Application.timus.task_1787.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +238,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702793229698</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1703262515812</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1703262515812</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
