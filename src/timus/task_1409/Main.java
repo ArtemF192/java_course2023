@@ -19,9 +19,6 @@ public class Main {
         int harry = numberOfCans - a;
         int larry = numberOfCans - b;
 
-
-
-
         out.println(harry + " " + larry);
         out.flush();
     }
