@@ -1,7 +1,7 @@
 package lr7.Example2;
 
 public class SubClassTest extends SuperClassTest {
-    private int integerValue;
+    public int integerValue;
 
     // Конструктор с двумя параметрами (целочисленным и текстовым)
     SubClassTest(int integerValue, String strEx) {
