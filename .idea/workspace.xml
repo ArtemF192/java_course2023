@@ -5,17 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a13d22d0-ac16-4d8e-949c-d8e81e5c8c9f" name="Changes" comment="initial commit">
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example1/KlassFile1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example10/Buf_RW_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example2/Primer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example3/File_ByteRead_SamBuff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example4/FilesData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example5/Files_byteRW_my2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example6/File_RW_byByte.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example7/Buf_RW_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example8/InConvertInText.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/task1/Example9/Buf_WR_IO_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr8/task1/Example6/File_RW_byByte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr8/task1/Example6/File_RW_byByte.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +78,7 @@
       <recent name="timus" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Buf_RW_3">
+  <component name="RunManager" selected="Application.Buf_RW_2">
     <configuration name="Buf_RW_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lr8.task1.Example10.Buf_RW_2" />
       <module name="java_course2023" />
@@ -155,10 +146,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Buf_RW_3" />
         <item itemvalue="Application.Buf_RW_2" />
         <item itemvalue="Application.Buf_WR_IO_4" />
         <item itemvalue="Application.InConvertInText" />
+        <item itemvalue="Application.Buf_RW_3" />
         <item itemvalue="Application.File_RW_byByte" />
       </list>
     </recent_temporary>
@@ -324,7 +315,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707558669094</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1708168580871</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1708168580871</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

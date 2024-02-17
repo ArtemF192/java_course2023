@@ -11,11 +11,11 @@ public class Buf_WR_IO_4 {
         try {
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("C:\\MyFile1.txt"), "cp1251"));
+                            new FileInputStream("C:\\My\\MyFile1.txt"), "cp1251"));
 
             bw = new BufferedWriter(
                     new OutputStreamWriter(
-                            new FileOutputStream("C:\\MyFile2.txt"), "cp1251"));
+                            new FileOutputStream("C:\\My\\MyFile2.txt"), "cp1251"));
 
             int lineCount = 0;
             String s;
