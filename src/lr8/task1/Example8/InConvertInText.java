@@ -19,7 +19,7 @@ public class InConvertInText {
 
     public static void main(String[] args) {
         try {
-            InputStream inFile = new FileInputStream("C:\\MyFile1.txt");
+            InputStream inFile = new FileInputStream("C:\\My\\MyFile1.txt");
 
             Reader rFile = new InputStreamReader(inFile, "cp1251");
 
